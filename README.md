@@ -2,7 +2,7 @@
 - 👀 I’m interested in product design
 - 🌱 I’m currently learning ReactJS and Flutter
 - 💞️ I’m looking to collaborate on slicing UI
-- 📫 How to reach me say hi to my twitter @itsnevertulate
+- 📫 How to reach me say hi to my x and instagram @itsnevertulate
 
 <!---
 itsnevertulate/itsnevertulate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
